@@ -36,7 +36,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="350" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="350" width="300" alt="GIF" src="https://github.com/GurpreetSingh97/GurpreetSingh97/blob/main/github.gif"></a>
 <br/>
 
 
