@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There<img\width="30"  </h1>
 <br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
@@ -11,9 +11,9 @@
 </br>
 </br>
 <p align="center" >  
-  <img src="https://komarev.com/ghpvc/?username=harsh-tuwar" alt="harsh" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/harsh-tuwar?label=Followers&style=social"> 
-  <img src="https://img.shields.io/github/stars/harsh-tuwar?label=Stars" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=GurpreetSingh97" alt="Gurpreet" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GurpreetSingh97?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/GurpreetSingh97?label=Stars" alt="Total Stars">
 </p>
 
 <br/>
@@ -23,9 +23,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![Jahnvi's github stats](https://github-readme-stats.vercel.app/api?username=harsh-tuwar&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-tuwar&theme=tokyonight" alt="mystreak"/>
-![Jahnvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-tuwar&theme=tokyonight&layout=compact)
+![Jahnvi's github stats](https://github-readme-stats.vercel.app/api?username=GurpreetSingh97&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GurpreetSingh97&theme=tokyonight" alt="mystreak"/>
+![Jahnvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh97&theme=tokyonight&layout=compact)
 
 
 #
@@ -78,15 +78,15 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ##  💹 Contribution Graph
 
-<a href="https://github.com/harsh-tuwar"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh-tuwar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/GurpreetSingh97"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GurpreetSingh97&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
  
 
 
 ## Contact me : 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/htuwar08/
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gurpreetsingh97/
 )
-    <a href="mailto:tuwarharsh08@duck.com" target="blank"><img align="center" src="https://img.shields.io/badge/-TUWARHARSH08%40duck.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
 
 ------
-Credit: [Harsh Tuwar](https://github.com/harsh-tuwar)
+Credit: [Gurpreet Singh](https://github.com/GurpreetSingh97)
