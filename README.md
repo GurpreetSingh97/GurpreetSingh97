@@ -52,4 +52,3 @@
  
 
 ------
-Credit: [Gurpreet Singh](https://github.com/GurpreetSingh97)
