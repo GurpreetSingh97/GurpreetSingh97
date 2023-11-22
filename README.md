@@ -7,9 +7,9 @@
 
 - 🔭 I’m a Computing, Mathematics, and Analytic's student at Queen's University.
 
-- 🌱 I’m currently learning: Java.
+- 🌱 I’m currently learning: Python.
 - 👯 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: Gs5375559n@gmail.com or 21gsgs@queensu.ca
+- 📫 How to reach me: 21gsgs@queensu.ca
 - 😄 Pronouns: He/him
 
 
