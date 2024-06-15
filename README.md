@@ -7,8 +7,6 @@
 
 - 🔭 I’m a Computing, Mathematics, and Analytic's student at Queen's University.
 - 💼 I’ve had the opportunity to work at Amazon twice, contributing to both the Efficient and Payment teams.
-- 🌱 I’m currently learning: Python.
-- 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: g.singh@queensu.ca
 - 😄 Pronouns: He/him
 
@@ -25,8 +23,7 @@
 ## Contact me : 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh97/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gs5375559n@gmail.com)
-[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21gsgs@queensu.ca)
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:g.singh@queensu.ca)
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
