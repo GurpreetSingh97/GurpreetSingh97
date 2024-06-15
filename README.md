@@ -6,10 +6,10 @@
 </a>
 
 - 🔭 I’m a Computing, Mathematics, and Analytic's student at Queen's University.
-
+- 💼 I’ve had the opportunity to work at Amazon twice, contributing to both the Efficient and Payment teams.
 - 🌱 I’m currently learning: Python.
 - 👯 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: 21gsgs@queensu.ca
+- 📫 How to reach me: g.singh@queensu.ca
 - 😄 Pronouns: He/him
 
 </br>
