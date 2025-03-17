@@ -20,12 +20,11 @@
 
 ![Jahnvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh97&theme=tokyonight&layout=compact)<br/>
 
-## Contact me : 
+<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### Contact me : 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh97/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:g.singh@queensu.ca)
 
-<a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-------
