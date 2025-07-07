@@ -5,8 +5,8 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/GurpreetSingh97/GurpreetSingh97/blob/main/code.gif">
 </a>
 
-- 🔭 I’m a Computing, Mathematics, and Analytic's student at Queen's University.
-- 💼 I’ve had the opportunity to work at Amazon twice, contributing to both the Efficient and Payment teams.
+- 💼 Currently a Software Developer 1 at Zendesk. Previously interned twice at Amazon as a Software Development Engineer Intern (Payments & Efficiency teams).
+- 🔭 I'm a recent Computing and Mathematics graduate from Queen's University.
 - 📫 How to reach me: g.singh@queensu.ca
 - 😄 Pronouns: He/him
 
