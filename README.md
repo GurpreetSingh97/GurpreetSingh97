@@ -4,7 +4,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/GurpreetSingh97/GurpreetSingh97/blob/main/code.gif">
 </a>
 
-- 🖥️ Currently a Software Developer 1 at Zendesk
+- 🖥️ Currently a Software Developer I at Zendesk
 - 🚀 Previously interned twice at Amazon as a Software Development Engineer Intern (Payments & Efficiency teams)
 - 🎓 Recently graduated with a degree in Computing and Mathematics from Queen's University
 - 💬 How to reach me: g.singh@queensu.ca
