@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gurpreet Singh <br/>
+## Hi there 👋, I'm Gurpreet Singh <br/>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/GurpreetSingh97/GurpreetSingh97/blob/main/code.gif">
@@ -6,16 +6,14 @@
 
 - 🖥️ Currently a Software Developer 1 at Zendesk
 - 🚀 Previously interned twice at Amazon as a Software Development Engineer Intern (Payments & Efficiency teams)
-- 🎓 I'm a recent Computing and Mathematics graduate from Queen's University
+- 🎓 Recently graduated with a degree in Computing and Mathematics from Queen's University
 - 💬 How to reach me: g.singh@queensu.ca
 - ✨ Pronouns: He/him
 
-</br>
-</br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Github+Stats%3A)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Github+Stats%3A)](https://git.io/typing-svg)
 ![Gurpreet's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh97&theme=tokyonight&layout=compact)<br/>
 
 <p align="left" >  
