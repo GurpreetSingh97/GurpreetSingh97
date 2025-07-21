@@ -20,7 +20,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Skills%3A)](https://git.io/typing-svg)
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,aws,haskell,react,git,mysql&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,aws,haskell,react,git,mysql&perline=13)]()
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Contact+me%3A)](https://git.io/typing-svg)  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh97/)
