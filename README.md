@@ -19,10 +19,11 @@
   <img src="https://img.shields.io/github/stars/GurpreetSingh97?label=Stars" alt="Total Stars">
 </p>
 
-### Skills : 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,haskell,react,git,mysql&perline=12)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Skills%3A)](https://git.io/typing-svg)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,aws,haskell,react,git,mysql&perline=13)](#)
 
-### Contact me : 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Contact+me%3A)](https://git.io/typing-svg)  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh97/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:g.singh@queensu.ca)
+
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
