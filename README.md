@@ -10,9 +10,6 @@
 - 💬 How to reach me: g.singh@queensu.ca
 - ✨ Pronouns: he/him
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Github+Stats%3A)](https://git.io/typing-svg)
-![Gurpreet's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetSingh97&theme=tokyonight&layout=compact)<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Skills%3A)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,aws,haskell,react,git,mysql&perline=13)](#)
 
