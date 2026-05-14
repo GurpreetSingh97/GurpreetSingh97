@@ -6,7 +6,7 @@
 
 - 🖥️ Currently a Software Developer I at Zendesk
 - 🚀 Previously interned twice at Amazon as a Software Development Engineer Intern (Payments & Efficiency teams)
-- 🎓 Recently graduated with a degree in Computing and Mathematics from Queen's University
+- 🎓 Graduated with a degree in Computing and Mathematics from Queen's University
 - 💬 How to reach me: g.singh@queensu.ca
 - ✨ Pronouns: he/him
 
